@@ -1,0 +1,5 @@
+set GTR_GOOGLE_CLIENT_ID=<your_google_client_id>
+set GTR_GOOGLE_CLIENT_SECRET=<your_google_client_secret>
+set GTR_SECRET_KEY=<random_secret_string>
+set GTR_ARANGODB_HOST=<your_arangodb_url>
+set GTR_ARANGODB_ROOT_PWD=<your_arangodb_root_password>
